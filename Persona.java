@@ -3,4 +3,10 @@ class Persona{
 	String paterno;
 	int edad
 	int nivel;
+	
+	int contarAlumnos()
+	{
+	
+	}
+	
 }
