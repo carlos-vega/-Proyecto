@@ -1,5 +1,4 @@
-class Persona
-{
+class Persona{
 	String nombre;
 	String paterno;
 	int edad
